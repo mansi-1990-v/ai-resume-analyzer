@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-background text-primary font-sans antialiased overflow-x-hidden selection:bg-primary selection:text-black;
+  }
+}
+
+@layer components {
+
+  /* Razor sharp, 1px bordered brutalist surfaces */
+  .surface-panel {
+    @apply bg-surface border border-borderclr transition-all duration-300;
+  }
+
+  /* Solid contrast buttons */
+  .btn-primary {
+    @apply px-8 py-4 bg-primary text-black font-semibold text-sm tracking-wide transition-all duration-300 hover:bg-white hover:shadow-[0_0_20px_#ffffff4c] active:scale-[0.98] flex items-center justify-center gap-2;
+  }
+
+  .btn-secondary {
+    @apply px-6 py-3 bg-transparent text-secondary border border-borderclr hover:text-primary hover:border-secondary transition-all duration-300 flex items-center justify-center gap-2 text-sm font-medium;
+  }
+
+  .label-mono {
+    @apply font-mono text-[11px] uppercase tracking-widest text-secondary;
+  }
+}
+
+/* Minimalist Scrollbar */
+::-webkit-scrollbar {
+  width: 4px;
+  height: 4px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #27272a;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #52525b;
+}
+
+/* Hide default file input button globally */
+input[type="file"]::file-selector-button {
+  display: none;
+}

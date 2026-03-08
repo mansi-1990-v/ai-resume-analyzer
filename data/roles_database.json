@@ -1,0 +1,42 @@
+[
+    {
+        "role": "Software Engineer",
+        "description": "Develops, tests, and maintains software applications using programming languages like Python, Java, or C++. Strong understanding of algorithms and system design."
+    },
+    {
+        "role": "Frontend Developer",
+        "description": "Builds user interfaces and web applications using HTML, CSS, JavaScript, and frameworks like React, Angular, or Vue."
+    },
+    {
+        "role": "Backend Developer",
+        "description": "Develops server-side logic, APIs, and manages databases using Node.js, Python/Django/FastAPI, Java/Spring, or Go."
+    },
+    {
+        "role": "Data Scientist",
+        "description": "Analyzes complex data sets, builds predictive models using Machine Learning, Python, Pandas, Scikit-Learn, and TensorFlow."
+    },
+    {
+        "role": "Machine Learning Engineer",
+        "description": "Designs and deploys scalable AI/ML pipelines and models into production. Familiar with PyTorch, TensorFlow, MLOps, and Docker."
+    },
+    {
+        "role": "DevOps Engineer",
+        "description": "Manages infrastructure, CI/CD pipelines, and cloud environments using AWS, Docker, Kubernetes, Terraform, and Linux."
+    },
+    {
+        "role": "Full Stack Developer",
+        "description": "Works on both frontend UI and backend server architecture. Proficient in React, Node.js, databases, and APIs."
+    },
+    {
+        "role": "Data Engineer",
+        "description": "Builds data pipelines, ETL processes, and manages data warehouses using SQL, Spark, Kafka, and Snowflake."
+    },
+    {
+        "role": "Product Manager",
+        "description": "Leads product strategy, Agile/Scrum teams, gathers requirements, and coordinates between engineering and design."
+    },
+    {
+        "role": "UI/UX Designer",
+        "description": "Creates user-centric designs, prototypes, and wireframes using Figma, understanding user flow and aesthetics."
+    }
+]

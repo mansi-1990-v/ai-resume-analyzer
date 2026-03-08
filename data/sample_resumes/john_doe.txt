@@ -1,0 +1,27 @@
+John Doe
+Senior Software Engineer
+Email: john.doe@example.com
+Phone: (555) 123-4567
+
+Summary:
+Experienced backend engineer with 5 years of expertise in building scalable APIs and microservices using Python, FastAPI, and Docker.
+
+Skills:
+- Python, FastAPI, Django
+- Docker, Kubernetes, AWS
+- PostgreSQL, Redis, FAISS
+- Machine Learning, NLP, Spacy
+
+Experience:
+Senior Backend Engineer at TechCorp (2020 - Present)
+- Designed and migrated legacy monolithic architecture to microservices using FastAPI and Docker.
+- Implemented Elasticsearch for sub-second query performance.
+- Mentored junior developers and led the transition to Kubernetes deployments on AWS EKS.
+
+Software Engineer at WebSolutions (2017 - 2020)
+- Developed RESTful APIs using Django REST Framework.
+- Optimized PostgreSQL database queries, reducing latency by 40%.
+- Integrated third-party payment gateways like Stripe.
+
+Education:
+B.S. in Computer Science, University of Technology (2017)

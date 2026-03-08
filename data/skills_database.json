@@ -1,0 +1,252 @@
+[
+    {
+        "name": "Python",
+        "category": "Programming Language",
+        "weight": 1.0
+    },
+    {
+        "name": "JavaScript",
+        "category": "Programming Language",
+        "weight": 1.0
+    },
+    {
+        "name": "React",
+        "category": "Frontend Framework",
+        "weight": 1.0
+    },
+    {
+        "name": "Angular",
+        "category": "Frontend Framework",
+        "weight": 1.0
+    },
+    {
+        "name": "Node.js",
+        "category": "Backend Framework",
+        "weight": 1.0
+    },
+    {
+        "name": "FastAPI",
+        "category": "Backend Framework",
+        "weight": 1.0
+    },
+    {
+        "name": "Django",
+        "category": "Backend Framework",
+        "weight": 1.0
+    },
+    {
+        "name": "Machine Learning",
+        "category": "AI/NLP",
+        "weight": 1.0
+    },
+    {
+        "name": "Deep Learning",
+        "category": "AI/NLP",
+        "weight": 1.0
+    },
+    {
+        "name": "Natural Language Processing",
+        "category": "AI/NLP",
+        "weight": 1.0
+    },
+    {
+        "name": "Computer Vision",
+        "category": "AI/NLP",
+        "weight": 1.0
+    },
+    {
+        "name": "TensorFlow",
+        "category": "Machine Learning Framework",
+        "weight": 1.0
+    },
+    {
+        "name": "PyTorch",
+        "category": "Machine Learning Framework",
+        "weight": 1.0
+    },
+    {
+        "name": "Scikit-Learn",
+        "category": "Machine Learning Framework",
+        "weight": 1.0
+    },
+    {
+        "name": "Docker",
+        "category": "DevOps",
+        "weight": 1.0
+    },
+    {
+        "name": "Kubernetes",
+        "category": "DevOps",
+        "weight": 1.0
+    },
+    {
+        "name": "AWS",
+        "category": "Cloud Computing",
+        "weight": 1.0
+    },
+    {
+        "name": "Azure",
+        "category": "Cloud Computing",
+        "weight": 1.0
+    },
+    {
+        "name": "SQL",
+        "category": "Database",
+        "weight": 1.0
+    },
+    {
+        "name": "PostgreSQL",
+        "category": "Database",
+        "weight": 1.0
+    },
+    {
+        "name": "MongoDB",
+        "category": "Database",
+        "weight": 1.0
+    },
+    {
+        "name": "Redis",
+        "category": "Database",
+        "weight": 1.0
+    },
+    {
+        "name": "Agile",
+        "category": "Software Methodology",
+        "weight": 1.0
+    },
+    {
+        "name": "Scrum",
+        "category": "Software Methodology",
+        "weight": 1.0
+    },
+    {
+        "name": "CI/CD",
+        "category": "DevOps",
+        "weight": 1.0
+    },
+    {
+        "name": "Git",
+        "category": "Version Control",
+        "weight": 1.0
+    },
+    {
+        "name": "Linux",
+        "category": "Operating System",
+        "weight": 1.0
+    },
+    {
+        "name": "C++",
+        "category": "Programming Language",
+        "weight": 1.0
+    },
+    {
+        "name": "Java",
+        "category": "Programming Language",
+        "weight": 1.0
+    },
+    {
+        "name": "Spring Boot",
+        "category": "Backend Framework",
+        "weight": 1.0
+    },
+    {
+        "name": "GraphQL",
+        "category": "API",
+        "weight": 1.0
+    },
+    {
+        "name": "REST",
+        "category": "API",
+        "weight": 1.0
+    },
+    {
+        "name": "HTML",
+        "category": "Frontend Framework",
+        "weight": 1.0
+    },
+    {
+        "name": "CSS",
+        "category": "Frontend Framework",
+        "weight": 1.0
+    },
+    {
+        "name": "Tailwind CSS",
+        "category": "Frontend Framework",
+        "weight": 1.0
+    },
+    {
+        "name": "Pandas",
+        "category": "Data Analysis Tool",
+        "weight": 1.0
+    },
+    {
+        "name": "NumPy",
+        "category": "Data Analysis Tool",
+        "weight": 1.0
+    },
+    {
+        "name": "Matplotlib",
+        "category": "Data Visualization",
+        "weight": 1.0
+    },
+    {
+        "name": "Tableau",
+        "category": "Data Visualization",
+        "weight": 1.0
+    },
+    {
+        "name": "Figma",
+        "category": "Design Tool",
+        "weight": 1.0
+    },
+    {
+        "name": "UI/UX",
+        "category": "Design Domain",
+        "weight": 1.0
+    },
+    {
+        "name": "Go",
+        "category": "Programming Language",
+        "weight": 1.0
+    },
+    {
+        "name": "Rust",
+        "category": "Programming Language",
+        "weight": 1.0
+    },
+    {
+        "name": "Terraform",
+        "category": "DevOps",
+        "weight": 1.0
+    },
+    {
+        "name": "Ansible",
+        "category": "DevOps",
+        "weight": 1.0
+    },
+    {
+        "name": "Snowflake",
+        "category": "Database",
+        "weight": 1.0
+    },
+    {
+        "name": "Kafka",
+        "category": "Message Queue",
+        "weight": 1.0
+    },
+    {
+        "name": "RabbitMQ",
+        "category": "Message Queue",
+        "weight": 1.0
+    },
+    {
+        "name": "Microservices",
+        "category": "Architecture",
+        "weight": 1.0
+    },
+    {
+        "name": "System Design",
+        "category": "Architecture",
+        "weight": 1.0
+    }
+]
